@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pipelineorganization/pipelineproject/_apis/build/status/pipelineproject/pipelineproject%20CI?branchName=master)](https://dev.azure.com/pipelineorganization/pipelineproject/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see docs for [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
